@@ -6,4 +6,7 @@ public class Cliente {
 	
 	private String nome1;
 	
+	private double Salario;
+	
+	
 }
